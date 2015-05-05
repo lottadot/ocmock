@@ -17,7 +17,7 @@ FOUNDATION_EXPORT const unsigned char OCMockFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <OCMockFramework/PublicHeader.h>
 
-#import <OCMockFramework/OCMock.h>
+#import <OCMockFramework/OCMockDefines.h>
 #import <OCMockFramework/OCMockObject.h>
 #import <OCMockFramework/OCMRecorder.h>
 #import <OCMockFramework/OCMStubRecorder.h>
